@@ -3,7 +3,7 @@ using OnlineGameStoreData.Entities;
 
 namespace OnlineGameStoreData.EntityReaders
 {
-    interface ICommentEntityReader
+    public interface ICommentEntityReader
     {
         IQueryable<CommentEntity> ReadAll(GameEntity gameEntity);
     }

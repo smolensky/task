@@ -2,7 +2,7 @@
 
 namespace OnlineGameStoreData.EntityWriters
 {
-    interface ICommentEntityWriter
+    public interface ICommentEntityWriter
     {
         CommentEntity CreateComment(CommentEntity comment);
     }

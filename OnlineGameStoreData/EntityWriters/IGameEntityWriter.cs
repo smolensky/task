@@ -2,7 +2,7 @@
 
 namespace OnlineGameStoreData.EntityWriters
 {
-    interface IGameEntityWriter
+     public interface IGameEntityWriter
     {
         GameEntity CreateGame(GameEntity entity);
     }

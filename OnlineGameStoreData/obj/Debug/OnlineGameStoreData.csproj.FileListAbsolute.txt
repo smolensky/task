@@ -8,3 +8,5 @@ E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\EntityFramework.SqlSe
 E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.csprojResolveAssemblyReference.cache
 E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.dll
 E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.Migrations.Bohdan.resources
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.csproj.GenerateResource.Cache

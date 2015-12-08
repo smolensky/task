@@ -17,3 +17,13 @@ E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\System.Web.WebPages
 E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\obj\Debug\OnlineGameStore.Tests.csprojResolveAssemblyReference.cache
 E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\obj\Debug\OnlineGameStore.Tests.dll
 E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\obj\Debug\OnlineGameStore.Tests.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\System.Web.Http.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\OnlineGameStoreData.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\EntityFramework.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\System.Web.Http.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\OnlineGameStoreData.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore.Tests\bin\Debug\EntityFramework.xml

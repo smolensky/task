@@ -17,3 +17,17 @@ E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Web.Mvc.xml
 E:\proj\OnlineGameStore\task\OnlineGameStore\obj\Debug\OnlineGameStore.csprojResolveAssemblyReference.cache
 E:\proj\OnlineGameStore\task\OnlineGameStore\obj\Debug\OnlineGameStore.dll
 E:\proj\OnlineGameStore\task\OnlineGameStore\obj\Debug\OnlineGameStore.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\Newtonsoft.Json.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\OnlineGameStoreData.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Net.Http.Formatting.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Web.Http.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Web.Http.WebHost.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\EntityFramework.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\OnlineGameStoreData.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\Newtonsoft.Json.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Net.Http.Formatting.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Web.Http.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\System.Web.Http.WebHost.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\EntityFramework.xml
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\Ninject.dll
+E:\proj\OnlineGameStore\task\OnlineGameStore\bin\Ninject.xml

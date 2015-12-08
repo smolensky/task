@@ -7,7 +7,7 @@ using OnlineGameStoreData.Entities;
 
 namespace OnlineGameStoreData.EntityReaders
 {
-    interface IGameEntityReader
+    public interface IGameEntityReader
     {
         IQueryable<GameEntity> ReadAll();
         GameEntity ReadByKey(string key);

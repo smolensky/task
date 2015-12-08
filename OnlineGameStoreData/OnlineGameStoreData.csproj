@@ -59,10 +59,18 @@
     <Compile Include="EntityWriters\GameEntityWriter.cs" />
     <Compile Include="EntityWriters\ICommentEntityWriter.cs" />
     <Compile Include="EntityWriters\IGameEntityWriter.cs" />
+    <Compile Include="Migrations\201512080816009_Bohdan.cs" />
+    <Compile Include="Migrations\201512080816009_Bohdan.Designer.cs">
+      <DependentUpon>201512080816009_Bohdan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201512080816009_Bohdan.resx">
+      <DependentUpon>201512080816009_Bohdan.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
