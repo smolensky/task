@@ -1,0 +1,10 @@
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\OnlineGameStoreData.dll.config
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\OnlineGameStoreData.dll
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\OnlineGameStoreData.pdb
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\EntityFramework.dll
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\EntityFramework.SqlServer.dll
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\EntityFramework.xml
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\bin\Debug\EntityFramework.SqlServer.xml
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.csprojResolveAssemblyReference.cache
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.dll
+E:\proj\OnlineGameStore\task\OnlineGameStoreData\obj\Debug\OnlineGameStoreData.pdb
